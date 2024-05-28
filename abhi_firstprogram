@@ -1,0 +1,12 @@
+using system;
+namespace firstprogram
+{
+class prgroam
+{
+public static void Main(string[]args)
+{
+Console.WriteLine("hello world");
+Console.ReadLine();
+}
+}
+}
